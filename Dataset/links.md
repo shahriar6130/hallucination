@@ -12,7 +12,7 @@ External Datasets links:
 
 - https://www.kaggle.com/datasets/shahriarislam6130/bn-wiki-passages-20231101
 
-- https://www.kaggle.com/datasets/faiazibneiqbal/hallueval-v2-0
+- (https://www.kaggle.com/datasets/shahriarislam6130/benhallueval-v1)
 
 - https://www.kaggle.com/datasets/shahriarislam6130/qa-dataset-v3
 
