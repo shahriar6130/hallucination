@@ -67,6 +67,9 @@ All of the above are public, cited, and were not derived from the competition's 
 External Data Policy. The BanglaHalluEval-derived extended-calibration CSVs and the notebook that scores
 them (`score_ext_calib.ipynb`) were built during this project but are not currently present in this local
 folder — if you need to regenerate them, see **Known gaps** below.
+All external links including-> External Datasets,vLLMs,Model Checkpoints,Models are found in this link given below:
+-
+- https://github.com/shahriar6130/hallucination/blob/main/Dataset/links.md
 
 ## Models used
 
