@@ -1,5 +1,7 @@
 External Datasets links:
 
+- https://www.kaggle.com/datasets/shahriarislam6130/ahans-5k-synthetic
+  
 - https://www.kaggle.com/datasets/shahriarislam6130/titulm-bangla-mmlu-all-2
 
 - https://www.kaggle.com/datasets/shazol/bangla-wikipedia-corpus
@@ -15,6 +17,8 @@ External Datasets links:
 - (https://www.kaggle.com/datasets/shahriarislam6130/benhallueval-v1)
 
 - https://www.kaggle.com/datasets/shahriarislam6130/qa-dataset-v3
+
+- https://www.kaggle.com/datasets/sakhadib/bagdhara-bangla-idioms-dataset
 
 
 
