@@ -1,6 +1,6 @@
 # অলীকবচন — Bengali LLM Hallucination Detection
 
-**Team Outliers** — submission for the BrainLab / Institute of Policy Dynamics datathon at IUT 12th ICT
+**Team DU_Outliers** — submission for the BrainLab / Institute of Policy Dynamics datathon at IUT 12th ICT
 Fest 2026.
 
 ## Problem
