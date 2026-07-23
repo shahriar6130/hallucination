@@ -18,10 +18,6 @@ wandb/
 runs/
 tensorboard/
 
-# Outputs
-outputs/
-submissions/
-
 # Jupyter
 .ipynb_checkpoints/
 
